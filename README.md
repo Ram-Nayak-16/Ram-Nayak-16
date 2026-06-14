@@ -18,16 +18,26 @@
 
 ## 🌌 About Me
 
-```yaml
-candidate:
-  name: Ram Chandra Nayak
-  education: B.Tech (Computer Science & Engineering)
-  university: Madan Mohan Malaviya University of Technology, Gorakhpur
-  location: Gorakhpur, Uttar Pradesh, India
-  goal: Preparing for Software Development Engineer (SDE) & Software Engineer (SWE) roles
-  philosophy: "Building intelligent applications and solving algorithmic challenges with clean, robust code."
-```
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 Welcome to my space!</h3>
+      <p>I am a passionate <b>Computer Science & Engineering</b> student at <b>Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur</b>. I focus on building high-performance applications, mastering algorithms, and solving real-world challenges through code.</p>
+      <ul>
+        <li>🎓 <b>Education:</b> Pursuing B.Tech in Computer Science & Engineering</li>
+        <li>🎯 <b>Career Goal:</b> Aspiring Software Development Engineer (SDE / SWE)</li>
+        <li>💡 <b>Core Focus:</b> Data Structures & Algorithms (DSA) & Full-Stack Development</li>
+        <li>📍 <b>Location:</b> Gorakhpur, Uttar Pradesh, India</li>
+      </ul>
+      <p><i>"The best way to predict the future is to invent it."</i></p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/blackcater/blackcater/raw/main/images/web-developer.gif" width="280px" alt="Developer Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
+### ⚡ Quick Facts
 - 💻 **Core Focus:** Data Structures & Algorithms (DSA), Full-Stack Web Development, Machine Learning.
 - 🚀 **Currently Building:** High-fidelity interactive frontends and real-time backend integrations.
 - 💡 **Interests:** Distributed systems, socket programming, real-time analytics dashboards.
