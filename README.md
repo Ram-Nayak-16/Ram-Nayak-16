@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,7029ff&height=280&section=header&text=Ram%20Chandra%20Nayak&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20%26%20Problem%20Solving&descSize=20&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,7029ff&height=280&section=header&text=Ram%20Chandra%20Nayak&fontSize=65&fontColor=ffffff&fontAlignY=38" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7029ff&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;DSA+%26+Problem+Solver;B.Tech+Computer+Science+Student" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ram-chandra-nayak-7594a121a/">
@@ -44,9 +50,7 @@
 ### ⚡ Quick Facts
 - 💻 **Core Focus:** Data Structures & Algorithms (DSA), Full-Stack Web Development, Machine Learning.
 - 🚀 **Currently Building:** High-fidelity interactive frontends and real-time backend integrations.
-- 💡 **Interests:** Distributed systems, socket programming, real-time analytics dashboards.
-
----
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f33cd2c2-cd34-4bc5-8598-504abd88d755.gif" width="100%"></p>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -56,8 +60,7 @@
 | **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **ML & Data Science** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | **Dev Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
----
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f33cd2c2-cd34-4bc5-8598-504abd88d755.gif" width="100%"></p>
 
 ## 🏆 Featured Projects
 
@@ -68,31 +71,38 @@
 | **🥢 Chinese Express Food App** | Full-stack food ordering platform featuring user authentication, cart management, and payment integration. | `Node.js`, `Express.js`, `MongoDB` | [View Repository](https://github.com/Ram-Nayak-16/Chinese-Express-Food-App) |
 | **💬 LAN Chat Application** | Simple local network messaging terminal/GUI using low-level socket programming. | `Python`, `Socket Programming` | [View Repository](https://github.com/Ram-Nayak-16/Computer-_Network_Mini_Project) |
 | **👗 Myntra Clone** | High-fidelity frontend replicate of Myntra with fully responsive, smooth UI components. | `HTML5`, `CSS3`, `JavaScript` | [View Repository](https://github.com/Ram-Nayak-16/myntra-clone) |
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f33cd2c2-cd34-4bc5-8598-504abd88d755.gif" width="100%"></p>
 
----
-
-## 📊 GitHub Metrics & Analytics
+## 📊 Activity & Analytics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="50%">
+        <h4>🐙 GitHub Stats</h4>
         <img src="https://github-readme-stats.vercel.app/api?username=Ram-Nayak-16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" alt="GitHub Stats"/>
       </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Nayak-16&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages"/>
+      <td align="center" valign="top" width="50%">
+        <h4>🏆 LeetCode Profile</h4>
+        <a href="https://leetcode.com/u/ramnayak_16/">
+          <img src="https://leetcard.jacoblin.cool/ramnayak_16?theme=dark&font=Fira%20Code" height="195" alt="LeetCode Stats"/>
+        </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" valign="top">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ram-Nayak-16&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+      <td align="center" valign="top" width="50%">
+        <h4>💻 Top Languages</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Nayak-16&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages"/>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h4>🔥 Commit Streak</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ram-Nayak-16&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
 </div>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f33cd2c2-cd34-4bc5-8598-504abd88d755.gif" width="100%"></p>
 
 ## 🐍 Code Contribution Game
 
