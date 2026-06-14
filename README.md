@@ -42,7 +42,7 @@
       <p><i>"The best way to predict the future is to invent it."</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/blackcater/blackcater/raw/main/images/web-developer.gif" width="280px" alt="Developer Coding GIF"/>
+      <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/web-developer.gif" width="280" alt="Developer Coding GIF"/>
     </td>
   </tr>
 </table>
