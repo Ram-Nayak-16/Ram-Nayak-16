@@ -117,7 +117,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/normal-badge/?username=Ram-Nayak-16&color=blueviolet&style=for-the-badge" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Ram-Nayak-16&color=blueviolet&style=for-the-badge" alt="Visitor Counter"/>
   <br/>
   <br/>
   <i>"The only way to do great work is to love what you do." — Steve Jobs</i>
