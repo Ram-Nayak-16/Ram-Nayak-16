@@ -1,0 +1,27 @@
+name: Maintain Daily Contribution Streak
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Runs daily at 05:00 UTC (10:30 AM IST)
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Heartbeat File
+        run: |
+          echo "Last Streak Heartbeat: $(date)" > heartbeat.txt
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "ramnayak778800@gmail.com"
+          git config --local user.name "Ram-Nayak-16"
+          git add heartbeat.txt
+          git commit -m "chore: update daily heartbeat [skip ci]" || echo "No changes to commit"
+          git push origin main
